@@ -1,1 +1,1 @@
-# cash_control
+# cash-control
